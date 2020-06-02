@@ -41,7 +41,7 @@ export default function App() {
   async function removeTask(item) {
 
     Alert.alert(
-      "Deletar Task",
+      "Deletar Tarefa",
       "Tem certeza que deseja remover esta tarefa?",
       [
         {
