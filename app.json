@@ -1,11 +1,9 @@
 {
   "expo": {
-    "name": "todolist",
-    "slug": "todolist",
+    "name": "Afazeres",
+    "slug": "Afazeres",
     "platforms": [
-      "ios",
-      "android",
-      "web"
+      "android"
     ],
     "version": "1.0.0",
     "orientation": "portrait",
@@ -21,8 +19,9 @@
     "assetBundlePatterns": [
       "**/*"
     ],
-    "ios": {
-      "supportsTablet": true
+    "android": {
+      "package": "com.comico.afazeres",
+      "versionCode": 1
     }
   }
 }
